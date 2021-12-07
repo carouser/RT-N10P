@@ -4,7 +4,7 @@
 
 Review [compatibility](https://wiki.freshtomato.org/doku.php/hardware_compatibility) and [features](https://wiki.freshtomato.org/doku.php/feature_matrix) to select and [download](https://freshtomato.org/downloads/freshtomato-mips/2021/2021.7/K26RT-N/Asus%20RT-Nxx%20%26%20CO/) the proper version.
 
-The safe choice is [Mini](https://freshtomato.org/downloads/freshtomato-mips/2021/2021.7/K26RT-N/Asus%20RT-Nxx%20%26%20CO/freshtomato-K26-NVRAM32K_RT-N5x-MIPSR2-2021.7-Mini.zip) or you may try [Max](https://freshtomato.org/downloads/freshtomato-mips/2021/2021.7/K26RT-N/Asus%20RT-Nxx%20%26%20CO/freshtomato-K26-NVRAM32K_RT-N5x-MIPSR2-2021.7-Max.zip) -- I did without any issues.
+The safe choice is [Mini](https://freshtomato.org/downloads/freshtomato-mips/2021/2021.7/K26RT-N/Asus%20RT-Nxx%20%26%20CO/freshtomato-K26-NVRAM32K_RT-N5x-MIPSR2-2021.7-Mini.zip) or you may try [Max](https://freshtomato.org/downloads/freshtomato-mips/2021/2021.7/K26RT-N/Asus%20RT-Nxx%20%26%20CO/freshtomato-K26-NVRAM32K_RT-N5x-MIPSR2-2021.7-Max.zip) as I did.
 
 ## 2 -- put the router into Rescue Mode and use TFTP to upload the TRX file
 
